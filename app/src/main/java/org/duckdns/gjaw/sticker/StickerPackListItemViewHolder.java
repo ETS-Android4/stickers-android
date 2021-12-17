@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package org.duckdns.gjaw.sticker;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -14,6 +14,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import org.duckdns.gjaw.sticker.R;
 
 class StickerPackListItemViewHolder extends RecyclerView.ViewHolder {
 

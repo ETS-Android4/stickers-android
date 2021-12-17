@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package org.duckdns.gjaw.sticker;
 
 import android.content.Intent;
 import android.graphics.Rect;
@@ -23,6 +23,8 @@ import android.widget.TextView;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.IdRes;
 import androidx.core.view.ViewCompat;
+
+import org.duckdns.gjaw.sticker.R;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

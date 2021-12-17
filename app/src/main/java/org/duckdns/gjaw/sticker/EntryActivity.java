@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package org.duckdns.gjaw.sticker;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,6 +18,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import androidx.annotation.Nullable;
+
+import org.duckdns.gjaw.sticker.R;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
